@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Mr. JumpMan</h1>
 
 <h2 id="description">
-Built an object oriented programming game with scoreboard, animation, time, and key-input functionality. Accounted for movement and gravity in the game code.</h2>
+Built an object oriented programming game with scoreboard, animation, time, sound, and key-input functionality. Accounted for movement and gravity in the game code.</h2>
 
 <h2>🚀 Demo: </h2>
   <img src="https://user-images.githubusercontent.com/125917603/224814030-75634ad3-4a8d-4e79-9216-d92d4cd9f928.gif" width="800" height="450" align="center"/>
@@ -14,7 +14,7 @@ Some of the project's best features:
 *   Built with Python
 *   Uses object oriented programming principles
 *   Built with Pygame
-*   Accounts for movement, animation, gravity, scoreboard, time, and key-inputs in the game code
+*   Accounts for movement, animation, gravity, scoreboard, time, sound, and key-inputs in the game code
 *   Entertaining
 *   Simple UI
 
